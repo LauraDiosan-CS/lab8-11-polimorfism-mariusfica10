@@ -1,0 +1,15 @@
+﻿  RepoFile.cpp
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFile.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFile.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+  RepoFileCSV.cpp
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFileCSV.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFileCSV.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFileCSV.cpp(73,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  RepoFileTXT.cpp
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFileTXT.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFileTXT.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FIcaegay\source\repos\lab10-12\lab10-12\RepoFileTXT.cpp(73,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TestRepoFIle.cpp
+  lab10-12.cpp
+  Generating Code...
+  lab10-12.vcxproj -> C:\Users\FIcaegay\source\repos\lab10-12\Debug\lab10-12.exe
